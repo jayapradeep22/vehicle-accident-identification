@@ -1,0 +1,3 @@
+This project is used to identify the accident that is occurred to a vehicle using Pressure sensor, if accident occurred, using the GSM, GPS modems microcontroller triggers SMS message to the registered numbers with the location of the accident.
+		Technology Used: Android Smartphone, Java (PGD)
+Description: Using Smartphone’s inbuilt HARDWARE capabilities (Accelerometer,   Gyro Sensor and GPS) and effective algorithms is used to find the accident that is happened to the Vehicle, along with the Location of the accident, this information is sent to the Mobile Numbers which were registered by the user.         
